@@ -2,7 +2,7 @@
 ### Mabrains CAD Internship 2021 Cycle.
 Here is the list of Self-guided Courses. (Deadline November 5th, 2021)
 
-    [Markdown Training](https://www.markdowntutorial.com/) (Week 1)
+    [Markdown Training](www.markdowntutorial.com/) (Week 1)
     [Coursera Linux Basics](https://www.coursera.org/projects/command-line-linux) (Week 1)
     [Git Training](https://www.coursera.org/learn/git-distributed-development?specialization=oss-development-linux-git#about) (Week 1)
     [Git Training](https://www.coursera.org/learn/version-control-with-git?action=enroll) (Week 1)
